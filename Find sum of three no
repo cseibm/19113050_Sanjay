@@ -1,0 +1,6 @@
+print("enter the numbers")
+a=input() 
+b=input() 
+c=input() 
+sum=a+b+c
+print("sum") 
